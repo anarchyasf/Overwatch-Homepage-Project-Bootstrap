@@ -1,0 +1,69 @@
+body{
+    background-image: url(Assets/OW%20Hex%20Background.png);
+    background-blend-mode: overlay;
+    background-color: #929EB9;
+    font-family: monospace;
+    font-size: 135%
+}
+
+
+.topnav {
+  background-color: #272E3F;
+  overflow: hidden;
+  padding: 5px;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.topnav a:hover {
+  background-color: #272E3F;
+  color: #1DEFEF;
+}
+
+
+.topnav a.active {
+  background-color: #1DEFEF;
+  color: black;
+}
+
+
+h1{
+    background-color: #272E3F;
+    padding: 10px;
+    color: white;
+}
+
+p{
+    text-align: center;
+    color: white;
+    font-size: 125%;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.imgCenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    padding: 30px;
+}
+
+.imgCenter2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50%
+    width: 25%;
+    padding: 30px;
+}
